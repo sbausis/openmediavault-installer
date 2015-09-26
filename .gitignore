@@ -36,8 +36,6 @@ ehthumbs.db
 Desktop.ini
 
 # OpenMediaVault / Debian
-debian/openmediavault-*
-debian/files
-debian/*.debhelper.log
-debian/*.debhelper
-debian/*substvars
+debian_openmediavault_sources.xsh
+debian_openmediavault_installer.xsh
+debian_opendebianrouter_installer.xsh
